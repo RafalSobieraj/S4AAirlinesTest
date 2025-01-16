@@ -4,5 +4,5 @@ Program pozwalający na edycję tras i liczb miejsc dla pasażerów dla samolot�
 - przypisaniu samolotu do nowej trasy
 - sumę wszystkich miejsc dla pasażerów w samolotach pomiędzy trasami od początku do podanego dnia
 
-Auto kodu:
+Autor kodu:
 Rafał Sobieraj
